@@ -4,9 +4,9 @@
 
 # About
 
-This app is created as a sample to show recipes list with few fields.
-This app also has code to run graphql APIs via Apollo but due to lack of required fields in the json data, sample modified data is used.
-This app is tested over android only due to resource limitations.
+This app is created as a sample to show recipes list with few fields.<br>
+This app also has code to run graphql APIs via Apollo but due to lack of required fields in the json data, sample modified data is used.<br>
+This app is tested over android only due to resource limitations.<br>
 
 ## Step 1: Start the Metro Server
 
@@ -32,11 +32,11 @@ This is one way to run your app — you can also run it directly from within And
 
 # Tests
 
-Unit tests can be found in **tests** folder
-e2e tests can be found in e2e folder
-e2e tests are written using detox and cucumber
+Unit tests can be found in **tests** folder<br>
+e2e tests can be found in e2e folder<br>
+e2e tests are written using detox and cucumber<br><br>
 
-Please build the test package before running e2e tests
-Please replace the avd name from 'Pixel_7_API_33' inside .detoxrc.js to your system in the
-scripts are present in the package.json for building test apk for emulator and attached device
-scripts are present in the package.json for running e2e tests on emulator and attached device
+Please build the test package before running e2e tests<br>
+Please replace the avd name from 'Pixel_7_API_33' inside .detoxrc.js to your system in the<br>
+scripts are present in the package.json for building test apk for emulator and attached device<br>
+scripts are present in the package.json for running e2e tests on emulator and attached device<br>
