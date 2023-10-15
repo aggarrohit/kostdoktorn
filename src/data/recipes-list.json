@@ -1,0 +1,554 @@
+[
+  {
+    "id": "wp-us-recipe-252028",
+    "isMembersOnly": false,
+    "title": "Iced tea",
+    "description": "Cool, refreshing iced tea... So thirst-quenching, you won’t miss the sugar one bit! Enjoy the tang of summer year-round with this classic low carb beverage. Make it a tall one!",
+    "rating": 4.92,
+    "modifiedAt": "2022-07-18T10:56:25Z",
+    "slug": "ice-tea",
+    "type": "Brunch",
+    "nutrition": {
+      "values": {
+        "carbs": 0,
+        "fat": 0,
+        "protein": 0,
+        "fiber": 0,
+        "calories": 0
+      },
+      "percentages": {
+        "carbs": 0,
+        "fat": 0,
+        "protein": 0
+      }
+    },
+    "time": {
+      "preparation": 10,
+      "cook": 0
+    },
+    "difficulty": {
+      "rating": "easy",
+      "value": 2
+    },
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfSW0QYz_-nynJvDMlpAHbmxXser6uksMB646X0VQANWDNj6lFy2qzwYOD4WL1lx89DJA&usqp=CAU",
+    "tags": [
+      {
+        "id": "wp-us-tag-1247",
+        "type": "recipe_type",
+        "title": "Beverage"
+      },
+      {
+        "id": "wp-us-tag-416",
+        "type": "recipe_tag",
+        "title": "Brunch"
+      },
+      {
+        "id": "wp-us-tag-1441",
+        "type": "recipe_tag",
+        "title": "mealplan-ready"
+      },
+      {
+        "id": "wp-us-tag-1393",
+        "type": "recipe_diet",
+        "title": "Vegetarian"
+      },
+      {
+        "id": "wp-us-tag-1394",
+        "type": "recipe_diet",
+        "title": "Dairy Free"
+      },
+      {
+        "id": "wp-us-tag-1",
+        "type": "energy",
+        "title": "keto"
+      },
+      {
+        "id": "wp-us-tag-5",
+        "type": "ease",
+        "title": "easy"
+      }
+    ],
+    "servings": {
+      "default": 2,
+      "allowed": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "strictness": {
+      "rating": "keto",
+      "value": 1
+    },
+    "instructionSections": [
+      {
+        "title": "",
+        "header": {
+          "text": ""
+        },
+        "footer": {
+          "text": ""
+        },
+        "steps": [
+          "Combine the tea, flavoring, and half of the cold water in a pitcher and leave it in the refrigerator for 1-2 hours.",
+          "Remove the tea bag and the flavoring. Replace with new, fresh flavoring if you wish.",
+          "Add the rest of the cold water and serve with lots of ice cubes. Ahhh... the simple pleasures!"
+        ]
+      }
+    ],
+    "tips": [],
+    "videos": []
+  },
+  {
+    "id": "wp-us-recipe-227698",
+    "isMembersOnly": false,
+    "title": "Keto browned butter asparagus with creamy eggs",
+    "description": "Three of our much-loved keto foods take center stage in this tasty medley. Creamy eggs, sautéed asparagus, and browned butter. C’est magnifique! What a simple way to enjoy a sophisticated appetizer or breakfast.",
+    "rating": 4.4,
+    "modifiedAt": "2022-07-18T10:58:43Z",
+    "type": "Breakfast",
+    "slug": "keto-browned-butter-asparagus-creamy-eggs",
+    "nutrition": {
+      "values": {
+        "carbs": 5.5894046,
+        "fat": 45.73404,
+        "protein": 15.847098,
+        "fiber": 3.587159,
+        "calories": 496.81256
+      },
+      "percentages": {
+        "carbs": 4.5,
+        "fat": 82.76,
+        "protein": 12.75
+      }
+    },
+    "time": {
+      "preparation": 5,
+      "cook": 20
+    },
+    "difficulty": {
+      "rating": "easy",
+      "value": 2
+    },
+    "image": "https://cdn.ruled.me/wp-content/uploads/2020/12/Brown-Butter-Asparagus-with-Creamed-Eggs-Featured.jpg",
+    "tags": [
+      {
+        "id": "wp-us-tag-288",
+        "type": "recipe_type",
+        "title": "Side dish"
+      },
+      {
+        "id": "wp-us-tag-289",
+        "type": "recipe_type",
+        "title": "Breakfast"
+      },
+      {
+        "id": "wp-us-tag-311",
+        "type": "recipe_type",
+        "title": "Appetizer"
+      },
+      {
+        "id": "wp-us-tag-416",
+        "type": "recipe_tag",
+        "title": "Brunch"
+      },
+      {
+        "id": "wp-us-tag-1441",
+        "type": "recipe_tag",
+        "title": "mealplan-ready"
+      },
+      {
+        "id": "wp-us-tag-1442",
+        "type": "recipe_tag",
+        "title": "instructions-do-not-scale-with-servings"
+      },
+      {
+        "id": "wp-us-tag-1393",
+        "type": "recipe_diet",
+        "title": "Vegetarian"
+      },
+      {
+        "id": "wp-us-tag-1",
+        "type": "energy",
+        "title": "keto"
+      },
+      {
+        "id": "wp-us-tag-5",
+        "type": "ease",
+        "title": "easy"
+      }
+    ],
+    "servings": {
+      "default": 4,
+      "allowed": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "strictness": {
+      "rating": "keto",
+      "value": 1
+    },
+    "instructionSections": [
+      {
+        "title": "",
+        "header": {
+          "text": ""
+        },
+        "footer": {
+          "text": ""
+        },
+        "steps": [
+          "Melt the butter over medium heat and add the eggs. Stir until scrambled. Cook through, but do not overcook the eggs.",
+          "Spoon the hot eggs into a blender. Add the cheese and sour cream and blend until smooth and creamy. Add salt and cayenne pepper to taste.",
+          "Roast the asparagus in olive oil over medium heat in a large frying pan. Add salt and pepper, remove from the frying pan for now, and set aside.",
+          "Sauté the butter in the frying pan until it is golden brown and has a nutty smell. Remove from heat, let cool, and add the lemon juice.",
+          "Put the asparagus back into the frying pan and stir together with the butter until it gets hot.",
+          "Serve the asparagus with the sautéed butter and the creamy eggs."
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "header": "Tip",
+        "content": [
+          "These creamy, cheesy eggs go with almost anything. Try them with smoked salmon or a nice steak to bump up the protein. They even work as a topping for low-carb flatbread, bread, or crackers."
+        ]
+      },
+      {
+        "header": "Recommended special equipment",
+        "content": ["Blender or food processor"]
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "wp-us-recipe-252049",
+    "isMembersOnly": false,
+    "title": "Berries and whipped cream",
+    "description": "The most popular low carb dessert ever? It could be this one. A handful of berries with whipped heavy cream. It tastes delicious and takes only a few minutes to prepare.",
+    "rating": 4.87,
+    "type": "Brunch",
+    "modifiedAt": "2022-07-18T11:00:42Z",
+    "slug": "berries-whipped-cream",
+    "nutrition": {
+      "values": {
+        "carbs": 6.1826696,
+        "fat": 29.085285,
+        "protein": 3.1053853,
+        "fiber": 4.615,
+        "calories": 308.18332
+      },
+      "percentages": {
+        "carbs": 8.27,
+        "fat": 87.57,
+        "protein": 4.16
+      }
+    },
+    "time": {
+      "preparation": 15,
+      "cook": 0
+    },
+    "difficulty": {
+      "rating": "easy",
+      "value": 2
+    },
+    "image": "https://whiskingmama.com/wp-content/uploads/2014/04/FRESH-WHIPPED-CREAM-WITH-BERRIES.jpg",
+    "tags": [
+      {
+        "id": "wp-us-tag-309",
+        "type": "recipe_type",
+        "title": "Dessert"
+      },
+      {
+        "id": "wp-us-tag-410",
+        "type": "recipe_tag",
+        "title": "family-friendly"
+      },
+      {
+        "id": "wp-us-tag-416",
+        "type": "recipe_tag",
+        "title": "Brunch"
+      },
+      {
+        "id": "wp-us-tag-653",
+        "type": "recipe_tag",
+        "title": "barbecue"
+      },
+      {
+        "id": "wp-us-tag-1393",
+        "type": "recipe_diet",
+        "title": "Vegetarian"
+      },
+      {
+        "id": "wp-us-tag-2",
+        "type": "energy",
+        "title": "moderate"
+      },
+      {
+        "id": "wp-us-tag-5",
+        "type": "ease",
+        "title": "easy"
+      }
+    ],
+    "servings": {
+      "default": 2,
+      "allowed": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "strictness": {
+      "rating": "moderate",
+      "value": 2
+    },
+    "instructionSections": [
+      {
+        "title": "",
+        "header": {
+          "text": ""
+        },
+        "footer": {
+          "text": ""
+        },
+        "steps": [
+          "If you are using frozen berries, let thaw at room temperature. Fresh berries are also best if they are at room temperature.",
+          "Whip the heavy cream fluffy, until soft peaks form. It should not get grainy or too firm. Add the vanilla towards the end.",
+          "Serve immediately with the berries."
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "header": "Tip!",
+        "content": []
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "wp-us-recipe-245845",
+    "isMembersOnly": false,
+    "title": "Blue cheese butter",
+    "description": "A must for blue cheese lovers! This quick and easy blue cheese butter is an excellent accompaniment to grilled vegetables, red meat or chicken. The delicious blend of sharp, salty and creamy notes will have you reaching for more.",
+    "rating": 5,
+    "type": "Condiments",
+    "modifiedAt": "2022-07-18T11:02:12Z",
+    "slug": "blue-cheese-butter",
+    "nutrition": {
+      "values": {
+        "carbs": 0.84680134,
+        "fat": 27.096064,
+        "protein": 7.6834,
+        "fiber": 0.016555931,
+        "calories": 274.3006
+      },
+      "percentages": {
+        "carbs": 1.22,
+        "fat": 87.73,
+        "protein": 11.06
+      }
+    },
+    "time": {
+      "preparation": 5,
+      "cook": 0
+    },
+    "difficulty": {
+      "rating": "easy",
+      "value": 2
+    },
+    "image": "https://www.daringgourmet.com/wp-content/uploads/2017/07/Blue-Cheese-Butter-2-cropped.jpg",
+    "tags": [
+      {
+        "id": "wp-us-tag-306",
+        "type": "recipe_type",
+        "title": "Condiments"
+      },
+      {
+        "id": "wp-us-tag-382",
+        "type": "dish_type",
+        "title": "Sauce"
+      },
+      {
+        "id": "wp-us-tag-1442",
+        "type": "recipe_tag",
+        "title": "instructions-do-not-scale-with-servings"
+      },
+      {
+        "id": "wp-us-tag-1393",
+        "type": "recipe_diet",
+        "title": "Vegetarian"
+      },
+      {
+        "id": "wp-us-tag-1",
+        "type": "energy",
+        "title": "keto"
+      },
+      {
+        "id": "wp-us-tag-5",
+        "type": "ease",
+        "title": "easy"
+      }
+    ],
+    "servings": {
+      "default": 4,
+      "allowed": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    },
+    "strictness": {
+      "rating": "keto",
+      "value": 1
+    },
+    "instructionSections": [
+      {
+        "title": "",
+        "header": {
+          "text": ""
+        },
+        "footer": {
+          "text": ""
+        },
+        "steps": [
+          "Crumble the blue cheese by hand.",
+          "Add parsley and softened butter. Mix well.",
+          "Season with salt and pepper to taste."
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "header": "Tip!",
+        "content": [
+          "This quick and easy sauce goes well with most meat and vegetables, whether fried, boiled or grilled. It's a fabulous alternative to rich sauces that require careful cooking. Just throw it together, add a generous amount to your <a href=\"https://www.dietdoctor.com/low-carb/keto/recipes#meals\" target=\"_blank\">keto meal</a>, and enjoy!"
+        ]
+      }
+    ],
+    "videos": []
+  },
+  {
+    "id": "wp-us-recipe-245983",
+    "isMembersOnly": false,
+    "title": "Keto meat pie",
+    "description": "Keep everyone happy with this satisfying, cheese-topped keto masterpiece. Meat pie may be a little old-school, but it’s time to rediscover its deliciousness. Any cook can get rave reviews with this easy-to-follow recipe.",
+    "rating": 4.76,
+    "type": "Dinner",
+    "modifiedAt": "2022-07-18T11:05:56Z",
+    "slug": "keto-meat-pie",
+    "nutrition": {
+      "values": {
+        "carbs": 7.738193,
+        "fat": 46.260094,
+        "protein": 36.65342,
+        "fiber": 5.928974,
+        "calories": 606.8989
+      },
+      "percentages": {
+        "carbs": 5.21,
+        "fat": 70.1,
+        "protein": 24.69
+      }
+    },
+    "time": {
+      "preparation": 30,
+      "cook": 40
+    },
+    "difficulty": {
+      "rating": "medium",
+      "value": 3
+    },
+    "image": "https://healthyrecipesblogs.com/wp-content/uploads/2021/01/meat-pie-featured-2022.jpg",
+    "tags": [
+      {
+        "id": "wp-us-tag-287",
+        "type": "recipe_type",
+        "title": "Meal"
+      },
+      {
+        "id": "wp-us-tag-1377",
+        "type": "recipe_type",
+        "title": "Dinner"
+      },
+      {
+        "id": "wp-us-tag-384",
+        "type": "dish_type",
+        "title": "Pie"
+      },
+      {
+        "id": "wp-us-tag-410",
+        "type": "recipe_tag",
+        "title": "family-friendly"
+      },
+      {
+        "id": "wp-us-tag-564",
+        "type": "recipe_tag",
+        "title": "Packed lunches"
+      },
+      {
+        "id": "wp-us-tag-572",
+        "type": "recipe_tag",
+        "title": "ground beef"
+      },
+      {
+        "id": "wp-us-tag-1442",
+        "type": "recipe_tag",
+        "title": "instructions-do-not-scale-with-servings"
+      },
+      {
+        "id": "wp-us-tag-315",
+        "type": "recipe_content",
+        "title": "Beef"
+      },
+      {
+        "id": "wp-us-tag-1401",
+        "type": "recipe_diet",
+        "title": "High-protein"
+      },
+      {
+        "id": "wp-us-tag-1",
+        "type": "energy",
+        "title": "keto"
+      },
+      {
+        "id": "wp-us-tag-6",
+        "type": "ease",
+        "title": "medium"
+      }
+    ],
+    "servings": {
+      "default": 6,
+      "allowed": [6, 12]
+    },
+    "strictness": {
+      "rating": "keto",
+      "value": 1
+    },
+    "instructionSections": [
+      {
+        "title": "Meat filling",
+        "header": {
+          "text": ""
+        },
+        "footer": {
+          "text": ""
+        },
+        "steps": [
+          "Preheat the oven to 350°F (175°C).",
+          "Heat the butter or olive oil in a large frying pan, over medium heat. Add the onion and cook for a few minutes until tender. Add the garlic, ground beef, oregano or basil, salt, and pepper. Use a spatula to break the meat into smaller pieces, while mixing together. Cook for 8-10 minutes or until no longer pink.",
+          "Add the tomato paste, water, and stir to combine. Reduce heat to medium-low, and simmer uncovered for 20 minutes, stirring occasionally. Meanwhile, prepare the pie crust.",
+          "Mix the crust ingredients together using a food processor, or with a fork.",
+          "Place a round piece of parchment paper in a well-greased, 9-10\" (23-25 cm) springform pan, or deep-dish pie pan. Using a spatula or well-greased fingers, evenly press the dough onto the base and the sides of the pan. Prick the base and sides of the crust with a fork, to prevent bubbling.",
+          "Pre-bake the crust for 10 minutes. Remove from the oven and place the meat mixture in the crust.",
+          "In a small bowl, combine the cottage cheese and shredded cheese. Spread on top of the pie.",
+          "Bake on the lower rack for 30-40 minutes, or until golden in color."
+        ]
+      }
+    ],
+    "tips": [
+      {
+        "header": "FYI",
+        "content": [
+          "The nutritional information in this recipe was based on a high-fiber coconut and almond flour that we realized was difficult to purchase in some areas of the world. We decided to update it with more common brands that are slightly higher in carbs. That’s why the carb amount in the video does not match the nutritional information in the recipe."
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "id": "413181084",
+        "type": "VIMEO"
+      },
+      {
+        "id": "4HR71lSpN0g",
+        "type": "YOUTUBE"
+      }
+    ]
+  }
+]
