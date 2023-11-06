@@ -8,6 +8,10 @@ This app is created as a sample to show recipes list with few fields.<br>
 This app also has code to run graphql APIs via Apollo but due to lack of required fields in the json data, sample modified data is used.<br>
 This app is tested over android only due to resource limitations.<br>
 
+# ScreenShots
+
+![Cards List](screenshots/ss2.jpg)![Swiped Card](screenshots/ss1.jpg)
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
