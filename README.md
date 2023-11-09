@@ -14,7 +14,7 @@ This app is tested over android only due to resource limitations.<br>
 
 # ScreenShots
 
-![Cards List](screenshots/ss2.jpg)![Swiped Card](screenshots/ss1.jpg)
+![Cards List](screenshots/ss2.jpg) - ![Swiped Card](screenshots/ss1.jpg)
 
 ## Step 1: Start the Metro Server
 
